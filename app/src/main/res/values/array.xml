@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope">
+        <item>android</item>
+        <item>com.android.thememanager</item>
+        <item>com.miui.home</item>
+        <item>com.miui.personalassistant</item>
+    </string-array>
+</resources>
